@@ -5,6 +5,6 @@ The demo run is based on PDB:1hgs and ligand MK1
 
 Create an environmet through requirements.txt
 
-Activate it and run the notebook
+Activate it and run the notebook or python fixed_diffusion_notebook.py
 
 Have fun
